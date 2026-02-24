@@ -11,14 +11,10 @@
             "id": "9bf931170958198a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Notes/Differential Geometry.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Differential Geometry"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Notes/Differential Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Differential Geometry"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Notes/Differential Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Differential Geometry"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Notes/Differential Geometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Differential Geometry"
+              "title": "Outline"
             }
           }
         ]
@@ -185,6 +178,7 @@
   },
   "active": "9bf931170958198a",
   "lastOpenFiles": [
+    "content/Notes/Differential Geometry.md",
     "public/404.html",
     "public/counter.txt",
     "public/Pasted-image-20260224210137.png",
@@ -205,12 +199,10 @@
     "public/latex-cache/e97c-affd-8c06-4f24-a378.svg",
     "public/latex-cache/e522-26cf-18ef-457d-8882.svg",
     "public/latex-cache",
-    "public/Scripts/note_counter.js",
     "content/index.md",
     "content/tags/MOC.md",
     "content/Notes/Lecture 2.md",
     "content/Notes/Lecture 1.md",
-    "content/Notes/Differential Geometry.md",
     "content/Excalidraw/Drawing 2026-02-24 20.56.14.excalidraw.md"
   ]
 }
