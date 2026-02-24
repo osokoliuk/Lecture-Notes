@@ -11,10 +11,14 @@
             "id": "9bf931170958198a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Notes/Differential Geometry.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Differential Geometry"
             }
           }
         ]
@@ -176,8 +180,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b25b44bc96961ee2",
+  "active": "9bf931170958198a",
   "lastOpenFiles": [
+    "content/Notes/Lecture 1.md",
+    "content/Notes/Differential Geometry.md",
     "content/index.md",
     "content/Attachments/ouunwjguqv7f1.webp",
     "content/Attachments/moth-drum.gif",
@@ -201,8 +207,6 @@
     "content/counter.txt",
     "content/latex-cache/index.json",
     "content/latex-cache",
-    "content/Notes/Lecture 1.md",
-    "content/Notes/Lecture 2.md",
-    "content/Notes/Differential Geometry.md"
+    "content/Notes/Lecture 2.md"
   ]
 }
