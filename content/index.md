@@ -5,4 +5,4 @@ These were written primarily for personal use; I make no claims about their qual
 Pull requests are welcome! 
 
 !!@!@!@!!!@!@!@@!@!@!@@. <span style="font-size: 0.5em"><a href="https://www.youtube.com/watch?v=T-d0ZJ7tWgE">No Lie No Sean</a></span> 
-# [MOC List](tags/MOC)
+# [Differential Geometry](<Lecture 1>)
