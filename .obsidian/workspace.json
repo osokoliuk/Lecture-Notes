@@ -11,6 +11,18 @@
             "id": "9bf931170958198a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "content/Pasted image 20260225010730.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260225010730"
+            }
+          },
+          {
+            "id": "4b162558d631b0b4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Notes/Lecture 2.md",
@@ -20,20 +32,9 @@
               "icon": "lucide-file",
               "title": "Lecture 2"
             }
-          },
-          {
-            "id": "4b162558d631b0b4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-25 00.17.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-25 00.17.21.excalidraw"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,24 +194,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9bf931170958198a",
+  "active": "4b162558d631b0b4",
   "lastOpenFiles": [
-    "Lecture2.png",
-    "content/Notes/Lecture 2.md",
-    "content/Pasted image 20260224210137.png",
+    "public/Pasted-image-20260225010833.png",
+    "public/Pasted-image-20260225010730.png",
+    "content/Pasted image 20260225010833.png",
     "Excalidraw/Drawing 2026-02-25 00.17.21.excalidraw.md",
+    "content/Pasted image 20260225010730.png",
+    "content/Notes/Lecture 2.md",
+    "public/Pasted-image-20260225002502.png",
+    "content/Pasted image 20260225002502.png",
+    "content/Notes/Lecture 1.md",
+    "content/Notes/Differential Geometry.md",
+    "content/Pasted image 20260224210137.png",
+    "Lecture2.png",
     "Excalidraw/Drawing 2026-02-25 00.17.21.excalidraw.png",
     "content/Pasted image 20260224210052.png",
     "content/Pasted image 20260224205806.png",
-    "content/Notes/Lecture 1.md",
-    "content/Notes/Differential Geometry.md",
-    "Pasted image 20260225002502.png",
     "Excalidraw",
     "public/404.html",
-    "public/Attachments/ouunwjguqv7f1.webp",
-    "public/Attachments/moth-drum.gif",
-    "public/Attachments/image.jpeg",
-    "public/Attachments/image-9.jpeg",
     "public/Attachments",
     "public/latex-cache/index.json",
     "public/latex-cache",
