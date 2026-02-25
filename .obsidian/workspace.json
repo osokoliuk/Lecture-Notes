@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Lecture 2.md",
+                "file": "content/Notes/Lecture 3.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "Lecture 3"
             }
           },
           {
@@ -29,7 +29,7 @@
               "state": {
                 "file": "content/tags/MOC.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "MOC"
@@ -197,33 +197,35 @@
   },
   "active": "9bf931170958198a",
   "lastOpenFiles": [
-    "content/Notes/Lecture 1.md",
-    "content/Notes/Lecture 2.md",
-    "content/index.md",
-    "content/Pasted image 20260225010833.png",
-    "public/index.md.html",
     "public/404.html",
+    "public/static/icon.png",
+    "public/static/og-image.png",
+    "public/latex-cache/index.json",
+    "public/latex-cache/fdea-4c9e-2cc9-4d57-b92f.svg",
+    "public/latex-cache/fda0-5333-3782-40ff-997a.svg",
+    "public/latex-cache/f99b-5022-5814-4351-8f8b.svg",
+    "public/latex-cache/f549-3cf6-e122-486f-8b40.svg",
+    "public/latex-cache/ec35-52a8-b066-4cf1-8e20.svg",
+    "public/latex-cache/e97c-affd-8c06-4f24-a378.svg",
+    "public/latex-cache/e522-26cf-18ef-457d-8882.svg",
+    "public/latex-cache/e25f-e157-69e8-4f71-bb25.svg",
+    "public/latex-cache",
+    "public/Scripts/note_counter.js",
+    "public/Scripts/idLink.js",
+    "public/Scripts/collect_block_ids.py",
+    "public/Scripts",
+    "public/Attachments",
     "public/counter.txt",
-    "public/Pasted-image-20260225010833.png",
-    "public/Pasted-image-20260225010730.png",
-    "public/Pasted-image-20260225002502.png",
-    "public/Pasted-image-20260224210137.png",
-    "public/index.xml",
-    "public/sitemap.xml",
-    "public/index.html",
-    "public/postscript.js",
-    "public/prescript.js",
-    "public/index.css",
+    "public/static/contentIndex.json",
+    "public/static",
+    "content/Notes/Lecture 2.md",
+    "content/Notes/Differential Geometry.md",
+    "content/Notes/Lecture 3.md",
+    "content/Notes/Lecture 1.md",
+    "content/index.md",
     "README.md",
-    "Lecture2.png",
-    "content/Pasted image 20260225010730.png",
-    "public/Lecture-Notes.html",
     "content/tags/MOC.md",
     "Excalidraw/Drawing 2026-02-25 00.17.21.excalidraw.md",
-    "content/Pasted image 20260225002502.png",
-    "content/Notes/Differential Geometry.md",
-    "content/Pasted image 20260224210137.png",
-    "Excalidraw/Drawing 2026-02-25 00.17.21.excalidraw.png",
     "content/Excalidraw/Drawing 2026-02-24 20.56.14.excalidraw.md"
   ]
 }
