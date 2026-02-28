@@ -6,47 +6,65 @@
       <description>Last 10 notes on NoNotes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Lecture 3</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-3</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-3</guid>
-    <description>As usual, consider \alpha:I\mapsto \mathbb{R}^3 p.a.l. with k&gt;0, s\mapsto\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix}\in \mathbb{R}^3. Then, \begin{pmatrix}T&#039;(s)\\ N&#039;(s)\\ B&#039;(s)\end{pmatrix}=\begin{pmatrix}k(s)N(S)\\ -k(s)T(s)-\tau(s)B(s)\\ \tau(s)N(s)\end{pmatrix}=\begin{pmatrix}O_3 &amp; k(s)\mathrm{I}_3 &amp; O_3\\ -k(s)\mathrm{I}_3 &amp; O_3 &amp; -\tau(s)\mathrm{I}_3\\ O_3 &amp; \tau(s)\mathrm{I}_3 &amp; O_3\end{pmatrix}\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix} Theorem 1(Fundamental theorem of the local theory of curves).</description>
-    <pubDate>Wed, 25 Feb 2026 02:07:24 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/</guid>
-    <description>A collection of lecture notes for some of the courses I have taken. The template for this Quartz website has been taken from NoNotes under the MIT License.</description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
-  </item><item>
-    <title>MOC</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/tags/MOC</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/tags/MOC</guid>
+    <title>Lecture 20</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-20</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-20</guid>
     <description></description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
+    <pubDate>Sat, 28 Feb 2026 02:47:09 GMT</pubDate>
   </item><item>
-    <title>Drawing 2026-02-24 20.56.14.excalidraw</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Excalidraw/Drawing-2026-02-24-20.56.14.excalidraw</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Excalidraw/Drawing-2026-02-24-20.56.14.excalidraw</guid>
-    <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
+    <title>Untitled 4</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-4</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-4</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:56 GMT</pubDate>
   </item><item>
-    <title>Differential Geometry</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Differential-Geometry</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Differential-Geometry</guid>
-    <description>Here is the list of my lecture notes for the differential geometry course: Lecture 1 Lecture 2 Lecture 3 .</description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
+    <title>Lecture 19</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-19</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-19</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:56 GMT</pubDate>
   </item><item>
-    <title>Lecture 1</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-1</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-1</guid>
-    <description> Definition 1(Definition). i) A differentiable curve (C^\infty) is a map \alpha: I \mapsto \mathbb{R^3} where I=(a,b)\subset \mathbb{R} such that \alpha \in C^\infty(I).</description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
+    <title>Untitled 3</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-3</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-3</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:55 GMT</pubDate>
   </item><item>
-    <title>Lecture 2</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-2</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-2</guid>
-    <description> Remark 1(Remark). Recall that we have \alpha:I\mapsto \mathbb{R}^3 with t_0\in I depicted by: Definition 2(Definition). Let s:I\mapsto\mathbb{R} be defined by s(t)=\int^t_{t_0}|\alpha&#039;(u)|du = L^t_{t_0}(\alpha).</description>
-    <pubDate>Wed, 25 Feb 2026 02:06:37 GMT</pubDate>
+    <title>Lecture 18</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-18</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-18</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:55 GMT</pubDate>
+  </item><item>
+    <title>Untitled 2</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-2</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Untitled-2</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:54 GMT</pubDate>
+  </item><item>
+    <title>Lecture 17</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-17</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-17</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:54 GMT</pubDate>
+  </item><item>
+    <title>Lecture 16</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-16</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-16</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:53 GMT</pubDate>
+  </item><item>
+    <title>Lecture 15</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-15</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-15</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:52 GMT</pubDate>
+  </item><item>
+    <title>Lecture 14</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-14</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-14</guid>
+    <description></description>
+    <pubDate>Sat, 28 Feb 2026 02:46:19 GMT</pubDate>
   </item>
     </channel>
   </rss>

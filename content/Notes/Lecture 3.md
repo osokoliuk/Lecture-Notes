@@ -35,3 +35,42 @@ $$
 
 >[!Definition] 
 >A curve $\alpha:I\mapsto \mathbb{R}^3$ with $I=[a,b]$, $\alpha(a)=\alpha(b)$ and no intersections is called a **closed planar curve**.
+
+>[!Theorem] Green's Theorem
+>Let $f(x,y),g(x,y)\in C^1(\mathbb{R}^2)$ and let $R$ be a bounded region inside a curve $C\subset \mathbb{R}^2$. Then, 
+>$$
+>\int_R \bigg(\frac{\partial g}{\partial x} - \frac{\partial f}{\partial y}\bigg)dxdy = \int_C \bigg(f\frac{dx}{dt}+g\frac{dy}{dt}\bigg)dt
+>$$
+>Take $f=-y$, $g=x$. Then, 
+>$$
+>2\mathrm{Area}(R)=2\int_R2dxdy = \int_C\bigg(-y\frac{dx}{dt}+x\frac{dy}{dt}\bigg)dt = \int^b_a\bigg(-y\frac{dx}{dt}+x\frac{dy}{dt}\bigg)dt
+>$$
+
+>[!Theorem] 
+>$L^2\geq 4\pi \mathrm{Area}(R)$. Moreover, equality holds if and only if $\alpha$ parameterises a circle.
+>
+>![[Pasted image 20260228020534.png|center|250]]
+
+>[!Proof]
+>If $C$ is described by a p.a.l. curve as $\alpha(s)=(x(x),y(s))$ then we can choose a parameterisation of $C'$ as $\beta(s)=(x(s),\tilde{y}(s))$ with $s\in [0,L]$. Then, using the Green's theorem,
+>$$
+>\mathrm{Area}(R)=\frac{1}{2}\int^L_0(xy'-yx')ds= \frac{1}{2}\int^L_0xy'ds - \frac{1}{2}\int^L_0 yx'ds
+>$$
+>Using integration by parts,
+>$$
+>\int^L_0xy'dx = \underbrace{[xy]^L_0}_{0}-\int^L_0yx'ds\implies \mathrm{Area}(R)=-\int^L_0xy'ds
+>$$
+>But, notice that
+>$$
+>\mathrm{Area(Interior\;of\;}C')=\pi r^2=-\int^L_0x'\tilde{y}ds
+>$$
+>Hence,
+>$$
+>\mathrm{Area}(R)+\pi r^2 = \int^L_0 (xy'-\tilde{y}x')ds\\
+>\leq \int^L_0\bigg[(xy'-\tilde{y}x')^2\bigg]^{1/2}ds\\
+>\leq \int^L_0\bigg[(x^2+\tilde{y}^2)\underbrace{((x')^2+(y')^2))}_{||\alpha'(t)||=1}\bigg]^{1/2}ds=\int^L_0 \bigg[\underbrace{x^2+\tilde{y}^2}_{r^2}\bigg]^{1/2}=Lr
+>$$
+>Hence, by the Hölder's inequality,
+>$$
+>\sqrt{\pi r^2\mathrm{Area}(R)}\leq \frac{1}{2}(\mathrm{Area}(R)+\pi r^2)\leq \frac{Lr}{2}\implies \mathrm{Area}(R)\leq \frac{L^2}{4\pi}
+>$$
