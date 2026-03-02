@@ -1,3 +1,8 @@
+---
+id: "DG1"
+tags:
+  - DiffGeom
+---
 
 >[!Definition] 
 >i) A **differentiable curve** ($C^\infty$) is a map $\alpha: I \mapsto \mathbb{R^3}$ where $I=(a,b)\subset \mathbb{R}$ such that $\alpha \in C^\infty(I)$. Hence,

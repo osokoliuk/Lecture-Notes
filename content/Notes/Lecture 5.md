@@ -1,3 +1,8 @@
+---
+id: "DG5"
+tags:
+  - DiffGeom
+---
 >[!Example] Torus of Revolution
 >Take a circle $S^1(r)$ of radius $r$ in the plane $x=0$ with a center $(0,a,0)$. Rotate this circle around $z$ axis, $\{x=y=0\}$.
 >

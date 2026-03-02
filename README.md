@@ -1,9 +1,3 @@
 # NoNotes
 
-https://nolienosean.github.io/NoNotes/
-
-Notes from my undergraduate studies at CMI, with additional contributions from Karan and Aniruda.
-
-These are written primarily for personal use; I make no claims about their quality, completeness, or accuracy. 
-
-Pull requests are welcome!
+A collection of lecture notes for some of the courses I have taken. The template for this Quartz website has been taken from [NoNotes](https://github.com/NoLieNoSean/NoNotes) under the [MIT License](https://github.com/NoLieNoSean/NoNotes/blob/v4/LICENSE). 

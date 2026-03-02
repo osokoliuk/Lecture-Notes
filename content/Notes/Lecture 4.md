@@ -1,3 +1,8 @@
+---
+id: "DG4"
+tags:
+  - DiffGeom
+---
 >[!Definition]
 >A subset $S$ of $\mathbb{R}^3$ is a **regular surface** if $\forall p \in S$, $\exists$ an open set $V\subset\mathbb{R}^3$ such that $p\in V$ and $\exists \overline{X}:U\mapsto V$ where $U$ is an open set of $\mathbb{R}^2$, $\overline{X}$ is surjective and
 >1. $\overline{X}$ is a $C^\infty$ map.

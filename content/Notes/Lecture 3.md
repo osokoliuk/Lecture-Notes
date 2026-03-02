@@ -1,3 +1,8 @@
+---
+id: "DG3"
+tags:
+  - DiffGeom
+---
 As usual, consider $\alpha:I\mapsto \mathbb{R}^3$ p.a.l. with $k>0$, $s\mapsto\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix}\in \mathbb{R}^3$. Then, 
 $$
 \begin{pmatrix}T'(s)\\ N'(s)\\ B'(s)\end{pmatrix}=\begin{pmatrix}k(s)N(S)\\ -k(s)T(s)-\tau(s)B(s)\\ \tau(s)N(s)\end{pmatrix}=\begin{pmatrix}O_3 & k(s)\mathrm{I}_3 & O_3\\ -k(s)\mathrm{I}_3 & O_3 & -\tau(s)\mathrm{I}_3\\ O_3 & \tau(s)\mathrm{I}_3 & O_3\end{pmatrix}\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix}
