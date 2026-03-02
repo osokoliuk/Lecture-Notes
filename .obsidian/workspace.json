@@ -22,6 +22,42 @@
             }
           },
           {
+            "id": "8f33c73b8c4fbfb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-02 02.52.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-02 02.52.24.excalidraw"
+            }
+          },
+          {
+            "id": "db1ebff39b2d09ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-01 23.47.48.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-01 23.47.48.excalidraw"
+            }
+          },
+          {
+            "id": "a291b3acbd896f92",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-01 23.05.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-01 23.05.05.excalidraw"
+            }
+          },
+          {
             "id": "5918506570f21536",
             "type": "leaf",
             "state": {
@@ -195,30 +231,34 @@
   },
   "active": "1b6f1190cd0554f3",
   "lastOpenFiles": [
-    "content/Notes/Lecture 4.md",
-    "public/Pasted-image-20260301011733.png",
-    "content/Pasted image 20260301011733.png",
+    "content/Notes/Lecture 5.md",
+    "public/Pasted-image-20260302025915.png",
+    "content/Pasted image 20260302025915.png",
+    "Excalidraw/Drawing 2026-03-02 02.52.24.excalidraw.md",
+    "public/Pasted-image-20260301235613.png",
+    "content/Pasted image 20260301235613.png",
+    "Excalidraw/Drawing 2026-03-01 23.47.48.excalidraw.md",
+    "public/Pasted-image-20260301232712.png",
+    "content/Pasted image 20260301232712.png",
+    "Excalidraw/Drawing 2026-03-01 23.05.05.excalidraw.md",
     "Excalidraw/Drawing 2026-03-01 01.11.25.excalidraw.md",
-    "Excalidraw/Drawing 2026-02-28 02.02.28.excalidraw.md",
+    "public/Pasted-image-20260301231728.png",
+    "content/Pasted image 20260301231728.png",
+    "public/Pasted-image-20260301231534.png",
+    "content/Pasted image 20260301231534.png",
     "public/404.html",
-    "public/static/icon.png",
-    "public/static/og-image.png",
-    "public/Attachments/ouunwjguqv7f1.webp",
-    "public/Attachments/moth-drum.gif",
-    "public/Attachments/image.jpeg",
-    "public/Attachments/image-9.jpeg",
-    "public/Attachments/image-8.jpeg",
-    "public/Attachments/image-7.jpeg",
-    "public/Attachments",
     "public/latex-cache/index.json",
     "public/latex-cache",
-    "public/Scripts/idLink.js",
     "public/Scripts/note_counter.js",
+    "public/Scripts/idLink.js",
     "public/Scripts/collect_block_ids.py",
     "public/Scripts",
+    "public/Attachments",
     "public/counter.txt",
     "public/static/contentIndex.json",
+    "content/Notes/Lecture 4.md",
     "content/Notes/Differential Geometry.md",
+    "Excalidraw/Drawing 2026-02-28 02.02.28.excalidraw.md",
     "content/Notes/Lecture 20.md",
     "content/Notes/Lecture 19.md",
     "content/Notes/Lecture 18.md",
@@ -234,11 +274,7 @@
     "content/Notes/Lecture 8.md",
     "content/Notes/Lecture 7.md",
     "content/Notes/Lecture 6.md",
-    "content/Notes/Lecture 5.md",
     "content/Notes/Lecture 3.md",
-    "content/tags/MOC.md",
-    "content/Notes/Lecture 2.md",
-    "content/Notes/Lecture 1.md",
-    "content/index.md"
+    "content/tags/MOC.md"
   ]
 }
