@@ -7,7 +7,7 @@ Here is the list of my lecture notes for the differential geometry course:
 6. [Lecture 6](<Lecture 6>) $\checkmark$
 7. [Lecture 7](<Lecture 7>) $\checkmark$
 8. [Lecture 8](<Lecture 8>) $\checkmark$
-9. [Lecture 9](<Lecture 9>)
+9. [Lecture 9](<Lecture 9>)  $\checkmark$
 10. [Lecture 10](<Lecture 10>)
 11. [Lecture 11](<Lecture 11>)
 12. [Lecture 12](<Lecture 12>)
