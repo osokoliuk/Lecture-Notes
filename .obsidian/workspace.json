@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/DG/Lecture 10.md",
+                "file": "content/Notes/DG/Differential Geometry.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lecture 10"
+              "title": "Differential Geometry"
             }
           },
           {
@@ -303,6 +303,8 @@
   },
   "active": "d50c255dba872729",
   "lastOpenFiles": [
+    "content/Notes/DG/Lecture 1.md",
+    "content/Notes/DG/Lecture 10.md",
     "public/404.html",
     "public/static/icon.png",
     "public/static/og-image.png",
@@ -323,16 +325,13 @@
     "public/Attachments",
     "public/counter.txt",
     "public/static/contentIndex.json",
-    "public/static",
     "Excalidraw/Drawing 2026-03-15 16.21.47.excalidraw.md",
-    "content/Notes/DG/Lecture 10.md",
     "content/index.md",
     "content/Notes/GR/The Cauchy Problem in General Relativity.md",
     "content/Notes/Untitled.md",
     "content/Notes/DG/Differential Geometry.md",
     "content/tags/MOC.md",
     "content/Notes/DG/Lecture 4.md",
-    "content/Notes/DG/Lecture 1.md",
     "Excalidraw/Drawing 2026-03-14 16.16.07.excalidraw.md",
     "content/Notes/DG/Lecture 9.md",
     "Excalidraw/Drawing 2026-03-14 16.34.32.excalidraw.md",
