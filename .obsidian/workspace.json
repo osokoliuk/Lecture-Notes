@@ -8,29 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83e5e1aba0371970",
+            "id": "d50c255dba872729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Notes/Differential Geometry.md",
+                "file": "content/Notes/DG/Lecture 10.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Differential Geometry"
+              "title": "Lecture 10"
             }
           },
           {
-            "id": "d50c255dba872729",
+            "id": "15f6f17b1b0e7ae6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-14 16.16.07.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-03-15 16.21.47.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-14 16.16.07.excalidraw"
+              "title": "Drawing 2026-03-15 16.21.47.excalidraw"
             }
           },
           {
@@ -301,25 +301,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "83e5e1aba0371970",
+  "active": "d50c255dba872729",
   "lastOpenFiles": [
-    "content/Notes/Lecture 9.md",
-    "public/Pasted-image-20260314163727.png",
-    "content/Pasted image 20260314163727.png",
-    "Excalidraw/Drawing 2026-03-14 16.34.32.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-14 16.27.37.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-14 16.16.07.excalidraw.md",
-    "public/Pasted-image-20260314163207.png",
-    "content/Pasted image 20260314163207.png",
-    "Excalidraw/Drawing 2026-03-13 21.06.14.excalidraw.md",
-    "public/Pasted-image-20260314161829.png",
-    "content/Pasted image 20260314161829.png",
     "public/404.html",
     "public/static/icon.png",
     "public/static/og-image.png",
     "public/latex-cache/index.json",
     "public/latex-cache/fdea-4c9e-2cc9-4d57-b92f.svg",
     "public/latex-cache/fda0-5333-3782-40ff-997a.svg",
+    "public/latex-cache/f99b-5022-5814-4351-8f8b.svg",
+    "public/latex-cache/f549-3cf6-e122-486f-8b40.svg",
+    "public/latex-cache/ec35-52a8-b066-4cf1-8e20.svg",
+    "public/latex-cache/e97c-affd-8c06-4f24-a378.svg",
+    "public/latex-cache/e522-26cf-18ef-457d-8882.svg",
+    "public/latex-cache/e25f-e157-69e8-4f71-bb25.svg",
     "public/latex-cache",
     "public/Scripts/note_counter.js",
     "public/Scripts/idLink.js",
@@ -328,25 +323,31 @@
     "public/Attachments",
     "public/counter.txt",
     "public/static/contentIndex.json",
+    "public/static",
+    "Excalidraw/Drawing 2026-03-15 16.21.47.excalidraw.md",
+    "content/Notes/DG/Lecture 10.md",
+    "content/index.md",
+    "content/Notes/GR/The Cauchy Problem in General Relativity.md",
+    "content/Notes/Untitled.md",
+    "content/Notes/DG/Differential Geometry.md",
+    "content/tags/MOC.md",
+    "content/Notes/DG/Lecture 4.md",
+    "content/Notes/DG/Lecture 1.md",
+    "Excalidraw/Drawing 2026-03-14 16.16.07.excalidraw.md",
+    "content/Notes/DG/Lecture 9.md",
+    "Excalidraw/Drawing 2026-03-14 16.34.32.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-14 16.27.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-13 21.06.14.excalidraw.md",
     "Excalidraw/Drawing 2026-03-13 20.34.10.excalidraw.md",
     "Excalidraw/Drawing 2026-03-12 23.14.53.excalidraw.md",
-    "content/Notes/Differential Geometry.md",
-    "content/Notes/Lecture 8.md",
+    "content/Notes/DG/Lecture 8.md",
     "Excalidraw/Drawing 2026-03-12 22.56.12.excalidraw.md",
     "Excalidraw/Drawing 2026-03-01 01.11.25.excalidraw.md",
-    "content/Notes/Lecture 7.md",
-    "content/Notes/Lecture 6.md",
-    "content/Notes/Lecture 4.md",
+    "content/Notes/DG/Lecture 7.md",
+    "content/Notes/DG/Lecture 6.md",
     "Excalidraw/Drawing 2026-03-02 20.50.32.excalidraw.md",
-    "content/Notes/Lecture 2.md",
-    "content/Notes/Lecture 3.md",
-    "content/Notes/Lecture 5.md",
-    "content/Notes/Lecture 10.md",
-    "content/Notes/Lecture 11.md",
-    "content/Notes/Lecture 12.md",
-    "content/Notes/Lecture 13.md",
-    "content/Notes/Lecture 14.md",
-    "content/Notes/Lecture 15.md",
-    "content/Notes/Lecture 16.md"
+    "content/Notes/DG/Lecture 2.md",
+    "content/Notes/DG/Lecture 3.md",
+    "content/Notes/DG/Lecture 5.md"
   ]
 }

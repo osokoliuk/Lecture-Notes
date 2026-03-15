@@ -1,0 +1,1 @@
+Notes taken based on the Hans Ringström's "The Cauchy Problem in General Relativity".

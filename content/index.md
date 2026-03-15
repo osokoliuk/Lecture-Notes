@@ -2,4 +2,5 @@ A collection of lecture notes for some of the courses I have taken. The template
 
 
 !!@!@!@!!!@!@!@@!@!@!@@
-# [Differential Geometry](<Differential Geometry>)
+# [Differential Geometry](<Notes/DG/Differential Geometry.md>)
+# [The Cauchy Problem in General Relativity](<Notes/GR/The Cauchy Problem in General Relativity.md>)

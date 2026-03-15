@@ -6,65 +6,65 @@
       <description>Last 10 notes on NoNotes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>The Cauchy Problem in General Relativity</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/GR/The-Cauchy-Problem-in-General-Relativity</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/GR/The-Cauchy-Problem-in-General-Relativity</guid>
+    <description>Notes taken based on the Hans Ringström’s “The Cauchy Problem in General Relativity”.</description>
+    <pubDate>Sat, 14 Mar 2026 21:46:33 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://https:/nolienosean.github.io/NoNotes/</link>
     <guid>https://https:/nolienosean.github.io/NoNotes/</guid>
     <description>A collection of lecture notes for some of the courses I have taken. The template for this Quartz website has been taken from NoNotes under the MIT License.</description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
     <title>MOC</title>
     <link>https://https:/nolienosean.github.io/NoNotes/tags/MOC</link>
     <guid>https://https:/nolienosean.github.io/NoNotes/tags/MOC</guid>
     <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
     <title>Drawing 2026-02-24 20.56.14.excalidraw</title>
     <link>https://https:/nolienosean.github.io/NoNotes/Excalidraw/Drawing-2026-02-24-20.56.14.excalidraw</link>
     <guid>https://https:/nolienosean.github.io/NoNotes/Excalidraw/Drawing-2026-02-24-20.56.14.excalidraw</guid>
     <description>⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠ You can decompress Drawing data with the command palette: ‘Decompress current Excalidraw file’.</description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
-  </item><item>
-    <title>Differential Geometry</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Differential-Geometry</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Differential-Geometry</guid>
-    <description>Here is the list of my lecture notes for the differential geometry course: Lecture 1 \checkmark Lecture 2 \checkmark Lecture 3 \checkmark Lecture 4 \checkmark Lecture 5 \checkmark ...</description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
-  </item><item>
-    <title>Lecture 1</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-1</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-1</guid>
-    <description> Definition DG1.1(Definition). i) A differentiable curve (C^\infty) is a map \alpha: I \mapsto \mathbb{R^3} where I=(a,b)\subset \mathbb{R} such that \alpha \in C^\infty(I).</description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
     <title>Lecture 10</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-10</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-10</guid>
-    <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-10</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-10</guid>
+    <description> Remark DG10.1(Remark). Let f:S\mapsto\mathbb{R}\\ p\leadsto |p-p_0|^2 Recall that p is a critical point if and only if p_0\in p+\lambda N(p). Then, (d^2f)_p=\frac{d^2}{dt^2}\bigg|_{t=0}|\alpha(t)-p_0|^2=\frac{d}{dt}\bigg|_{t=0}2\langle \alpha&#039;(t),\alpha(t)-p_0\rangle = 2\langle \alpha&#039;&#039;(0),p-p_0\rangle + 2 |v|^2\\ \implies (d^2f)_p=2(|v|^2-\lambda \langle \alpha&#039;&#039;(0),N(p)\rangle)=2(|v|^2-\lambda \mathrm{II}_p(v)) Corollary DG10.2(Corollary).</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
-    <title>Lecture 11</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-11</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-11</guid>
-    <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <title>Lecture 3</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-3</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-3</guid>
+    <description>As usual, consider \alpha:I\mapsto \mathbb{R}^3 p.a.l. with k&gt;0, s\mapsto\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix}\in \mathbb{R}^3. Then, \begin{pmatrix}T&#039;(s)\\ N&#039;(s)\\ B&#039;(s)\end{pmatrix}=\begin{pmatrix}k(s)N(S)\\ -k(s)T(s)-\tau(s)B(s)\\ \tau(s)N(s)\end{pmatrix}=\begin{pmatrix}O_3 &amp; k(s)\mathrm{I}_3 &amp; O_3\\ -k(s)\mathrm{I}_3 &amp; O_3 &amp; -\tau(s)\mathrm{I}_3\\ O_3 &amp; \tau(s)\mathrm{I}_3 &amp; O_3\end{pmatrix}\begin{pmatrix}T(s)\\ N(s)\\ B(s)\end{pmatrix} Theorem DG3.1(Fundamental theorem of the local theory of curves).</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
-    <title>Lecture 12</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-12</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-12</guid>
-    <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <title>Lecture 7</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-7</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-7</guid>
+    <description> Definition DG7.1(Definition). Let S be a regular surface. Then, a vector field V on S is a differentiable function V:S\mapsto \mathbb{R}^3. V is called normal (unitary) if \forall p \in S, V(p)\perp T_pS (|V(p)|=1) Example DG7.2(Example).</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
-    <title>Lecture 13</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-13</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-13</guid>
-    <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <title>Lecture 8</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-8</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-8</guid>
+    <description> Example DG8.1(Example). Consider a cylinder described by S=\{(x,y,z)\in\mathbb{R}^3:x^2+y^2=r^2\}. Then, let f(x,y)=x^2+y^2 such that S=f^{-1}(r^2). Notice that \nabla f_p=2(x,y,0) so df_p\neq 0\;\forall p \in S, hence r^2 is a regular value for f meaning that S is indeed a regular surface.</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item><item>
-    <title>Lecture 14</title>
-    <link>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-14</link>
-    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/Lecture-14</guid>
-    <description></description>
-    <pubDate>Fri, 13 Mar 2026 13:12:49 GMT</pubDate>
+    <title>Differential Geometry</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Differential-Geometry</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Differential-Geometry</guid>
+    <description>Here is the list of my lecture notes for the differential geometry course: Lecture 1 \checkmark Lecture 2 \checkmark Lecture 3 \checkmark Lecture 4 \checkmark Lecture 5 \checkmark ...</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
+  </item><item>
+    <title>Lecture 1</title>
+    <link>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-1</link>
+    <guid>https://https:/nolienosean.github.io/NoNotes/Notes/DG/Lecture-1</guid>
+    <description> Definition DG1.1(Definition). i) A differentiable curve (C^\infty) is a map \alpha: I \mapsto \mathbb{R^3} where I=(a,b)\subset \mathbb{R} such that \alpha \in C^\infty(I).</description>
+    <pubDate>Sat, 14 Mar 2026 16:39:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
